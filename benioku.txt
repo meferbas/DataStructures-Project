@@ -1,0 +1,2 @@
+mingw32-make komutuyla derlenmektedir.
+vscode'da derlerken terminalden kaynaklı bazen anlık değerlerin kaydığı veya tam gelmediği olabiliyor, tekrar derlendirildiğinde sorun gitmektedir.
