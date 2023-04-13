@@ -1,6 +1,6 @@
 # DataStructures-Project
 
--A data structures project using the c++ in the MinGW compiler.
+-A data structures project using c++ with MinGW compiler.
 
 -Topics-
 
