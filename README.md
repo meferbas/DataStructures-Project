@@ -1,8 +1,9 @@
 # DataStructures-Project
 
--A data structures project using c++ with MinGW compiler.
+- A data structures project using c++ with MinGW compiler.
+- You can compile the codes with mingw32-make command
 
--Topics-
+# -Topics-
 
 -> Linked List
 
