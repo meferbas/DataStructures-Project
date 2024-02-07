@@ -9,3 +9,4 @@
 
 -> Doubly Lİnked List
 
+- You can also take a look at my second **[data structures project.](https://github.com/meferbas/DataStructures-Project-2)**
